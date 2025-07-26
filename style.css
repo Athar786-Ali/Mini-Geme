@@ -1,0 +1,33 @@
+body{
+    background: black;
+    display: flex;
+    flex-direction: column; /* Add this line */
+    align-items: center;
+    justify-content: center;
+
+}
+#box{
+    height: 200px;
+    width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30%;
+
+}
+button{
+    height: 70px;
+    width: 150px;
+    background:skyblue;
+    margin: 10px;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: x-large;
+    color: #32320c;
+
+}
+h2{
+    color: aqua;
+
+}
+
